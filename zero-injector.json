@@ -1,6 +1,6 @@
 {
     "dialog_visibility": "VISIBLE",
-    "min_version" : "3.9",
+    "min_version" : "5.55",
     "dialog_title": "App moved to GS Tools",
     "dialog_message": "silahkan klik update aplikasi",
     "redirect_app": "https://play.google.com/store/apps/dev?id=7257410514584421739",
